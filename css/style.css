@@ -45,7 +45,7 @@ html, body {
 #wrap {width: 100%;}
 
 #header {
-  background: url(/images/main2.jpeg) no-repeat center center/cover, rgba(0, 0, 0, 0.1);
+  background: url(../images/main2.jpeg) no-repeat center center/cover, rgba(0, 0, 0, 0.1);
   background-blend-mode: multiply;
   text-align: center;
   
